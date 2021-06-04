@@ -20,18 +20,18 @@ With a given map of theater, find the minimum number of steps that you need to i
 
 ## Input Format:
 
-2: Number of test cases
-2 5: Number of rows and columns respectively
+- 2: Number of test cases
+- 2 5: Number of rows and columns respectively
 
-EX--- : E for exit, X for obstacles, - for non-occupied seats
+- EX--- : E for exit, X for obstacles, - for non-occupied seats
 
----XY : Y for the starting point
+- ---XY : Y for the starting point
 
-2 5
+- 2 5
 
-E---X 
+- E---X 
 
-----Y
+- ----Y
 
 ## Optimal Algorithm:
 
