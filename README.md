@@ -5,16 +5,21 @@
 
 Bad days have gone there is no pandemic anymore and you bought a movie ticket to celebrate. Everything has been going well so far, but when the movie has started, your house owner called and told you to come home as soon as possible. Now, you need to leave without disturbing any person in the theater!
 The theater has HxW seats. Here are the possible steps you can take to go to the exit: U: move one cell Up,
-D: move one cell Down,
-L: move one cell Left,
-R: move one cell Right, and M(i): go to the i-th step
-For example, if your list includes the following steps-list: 1: U
-2: R
-3: M(6)
-4: D
-5: M(1)
-6: L
-7: M(4)
+
+- D: move one cell Down,
+- L: move one cell Left,
+- R: move one cell Right, and M(i): go to the i-th step
+
+For example, if your list includes the following steps-list: 
+
+1. U
+2. R
+3. M(6)
+4. D
+5. M(1)
+6. L
+7. M(4)
+
 you move Up (line1), then Right (line2), then go to step 6 (line3), then move Left (line6), then go to step 4 (line7), then move Down (line4), then go to step 1 (line5), then move Up (line1), etc.
 With a given map of theater, find the minimum number of steps that you need to include in your step-lists to reach the exit without disturbing anyone in the audience.
 
