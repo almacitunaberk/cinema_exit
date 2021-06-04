@@ -1,6 +1,6 @@
 # Cinema Exit
 
-##Problem Description:
+## Problem Description:
 
 Bad days have gone there is no pandemic anymore and you bought a movie ticket to celebrate. Everything has been going well so far, but when the movie has started, your house owner called and told you to come home as soon as possible. Now, you need to leave without disturbing any person in the theater!
 The theater has HxW seats. Here are the possible steps you can take to go to the exit: U: move one cell Up,
