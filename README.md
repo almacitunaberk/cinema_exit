@@ -1,4 +1,5 @@
-# Cinema Exit # 
+# Cinema Exit
+
 
 ## Problem Description:
 
