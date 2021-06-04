@@ -23,6 +23,8 @@ For example, if your list includes the following steps-list:
 you move Up (line1), then Right (line2), then go to step 6 (line3), then move Left (line6), then go to step 4 (line7), then move Down (line4), then go to step 1 (line5), then move Up (line1), etc.
 With a given map of theater, find the minimum number of steps that you need to include in your step-lists to reach the exit without disturbing anyone in the audience.
 
+With a given map of theater, find the minimum number of steps that you need to include in your step-lists to reach the exit without disturbing anyone in the audience.
+
 ## Input Format:
 
 - 2: Number of test cases
